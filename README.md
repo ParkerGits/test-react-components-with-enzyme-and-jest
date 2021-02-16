@@ -8,7 +8,7 @@
 
 These notes go along with the [Test React Components with Enzyme and Jest](https://egghead.io/courses/test-react-components-with-enzyme-and-jest) course from [Tyler Clark](https://egghead.io/instructors/tyler-clark)
 
-In this course, we construct tests for our React components using Enzyme and Jest.
+In this course, we will construct tests for our React components using Enzyme and Jest.
 
 Throughout this course, you will learn about
 - Create React App setup
