@@ -25,7 +25,7 @@ Throughout this course, you will learn about
   - Replicate user interaction
   - Test class methods
 
-In the final lesson, we will recap these concepts through the testing of both a basic React form that sends an AJAX request on submit.
+In the final lesson, we will recap these concepts through the testing of a basic React form that sends an AJAX request on submit.
 
 The code for each lesson in this course can be found [here](https://github.com/ParkerGits/react-enzyme-jest). Each branch contains code for its respective lesson. **THERE IS NO BRANCH FOR LESSON 1, SO THE BRANCH NUMBERS 1-14 CORRESPOND WITH LESSON NUMBERS 2-15**. Code for each lesson can also be found in the **Resources** section of each page of notes.
 
