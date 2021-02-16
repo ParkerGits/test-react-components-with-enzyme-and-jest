@@ -10,7 +10,7 @@ In React, we want our components to be
 - Intuitive
 - Predictable
 
-In this course, we will learn how to make components that manifest the above characteristics.
+In this course, we will learn how to make components with these characteristics
 
 ## Enzyme
 Throughout the course, we'll be using Enzyme.
